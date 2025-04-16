@@ -35,7 +35,3 @@ Implementação de uma funcionalidade para calcular a diferença entre duas data
 ### Tecnologias:
 - Python
 - Manipulação de datas com `Date`
-
----
-## Autores
-icrcode & gtins
